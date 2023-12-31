@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KundanMaurya
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Data science and machine learning
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me by mail id :- kundanmaurya2017@gmail.com
 
